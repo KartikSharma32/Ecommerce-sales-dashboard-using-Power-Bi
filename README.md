@@ -1,5 +1,5 @@
 # Store-sales-dashboard-using-Power-Bi  
-Using two CSV files as a base
+Using Power Bi
  created an interactive dashboard to track and analyze sales data.
  Used complex parameters to drill down in worksheet and customization using filters and slicers.
  Created connections, join new tables, and calculations to manipulate
